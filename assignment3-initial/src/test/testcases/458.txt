@@ -1,0 +1,10 @@
+
+		main:function void () inherit foo{
+			super(1);
+			a = 1;
+			a = true;
+		}
+		foo: function void (inherit a: auto){
+		
+		}
+		

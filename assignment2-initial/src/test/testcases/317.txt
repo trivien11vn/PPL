@@ -1,0 +1,8 @@
+func: function integer(){
+            a={1,2,3}/4;
+            print(5);
+            while(a<10)a=3;
+            {
+                while({true,false,"aa",_a}) a=4;
+            }
+            } 

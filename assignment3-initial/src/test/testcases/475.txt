@@ -1,0 +1,13 @@
+
+		main: function void() {
+            a: string = "ghgf"::Ha({{{1,2,3}}});
+        }
+        
+        Ha: function string(e:array [1,1,3] of integer) {
+            return e[1,2+e[1,1]];
+        }
+        
+        Ha: function auto() {
+            a: auto = {{1,2,3},{1,2,3}};
+            return a;
+        }

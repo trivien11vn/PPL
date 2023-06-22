@@ -1,0 +1,13 @@
+ main:function void(){
+                        a=1;
+                        if(a == 1) 
+                            a=3;
+                        else
+                            a=4;   
+                        while(x>3) print(x);
+                        do {
+                            a=a+2;
+                            b=a;
+                        }
+                        while(a<10);
+            } 

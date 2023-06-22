@@ -1,0 +1,9 @@
+a:integer = foo(true);
+		foo:function auto (z: boolean){
+			for (a=1,a<5.0, a + 2){
+				break;
+				return a;
+			}
+		}
+		main:function void(){}
+		

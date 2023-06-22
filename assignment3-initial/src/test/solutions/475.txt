@@ -1,0 +1,1 @@
+Type mismatch in expression: BinExpr(+, IntegerLit(2), ArrayCell(e, [IntegerLit(1), IntegerLit(1)]))

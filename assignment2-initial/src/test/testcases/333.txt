@@ -1,0 +1,8 @@
+ main:function void(){
+
+                    do{
+                        x:integer;
+                        x=x+1;
+                    }while(x==1);
+                        
+                    }

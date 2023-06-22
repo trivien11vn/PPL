@@ -1,0 +1,5 @@
+
+              test: function integer () inherit t {
+                return true==false>=x;
+            } 
+        

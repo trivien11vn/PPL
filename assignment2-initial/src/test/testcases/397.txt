@@ -1,0 +1,7 @@
+
+        x : integer = 1;
+        foo: function array [5] of integer(){}
+        _foo: function void(a : integer){}
+        x ,z:float =1.e-5,4.9;
+        __foo: function void(a : integer){}
+        

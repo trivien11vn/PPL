@@ -1,0 +1,10 @@
+
+        a,b,c:array [2_1_2,3_] of string;
+          fact: function integer (){
+              {
+                  {  
+                  
+                  }
+              }
+            }  
+        

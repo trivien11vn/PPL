@@ -1,0 +1,5 @@
+
+        main: function void (){
+            if (i) return 1;
+        }
+        

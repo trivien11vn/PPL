@@ -1,0 +1,6 @@
+Program([
+	FuncDecl(main, VoidType, [OutParam(x, FloatType), Param(y, IntegerType)], None, BlockStmt([CallStmt(print, Id(x))]))
+	VarDecl(_x_, FloatType, FloatLit(1.2))
+	VarDecl(__y, FloatType, FloatLit(12.3))
+	VarDecl(___z, FloatType, ArrayLit([FloatLit(1.2), FloatLit(2.3)]))
+])

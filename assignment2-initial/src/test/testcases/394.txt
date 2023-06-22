@@ -1,0 +1,5 @@
+
+                func1 : function integer(a : array [5] of integer){
+                    return 1;
+                }
+                

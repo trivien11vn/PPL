@@ -1,0 +1,4 @@
+a:boolean =  main(main(false));
+		b: string = main(main(false));
+		main:function auto (a: boolean){}
+		

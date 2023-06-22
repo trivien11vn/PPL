@@ -1,0 +1,11 @@
+
+                func1 : function array [5] of integer(a : integer,b:float,c:string,d:boolean){
+                    return true;
+                    return ;
+                    return 1_123;
+                    return 1_123.4;
+                    return foo(abc);
+                    return _a;
+                    return _a[1,2];
+                }
+                

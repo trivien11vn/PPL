@@ -1,0 +1,7 @@
+
+        a:integer = a[1,foo(1,{1,2,3}),float];
+          fact: function integer (out x:string){
+              a=a[2,3];
+              b= {1,2,3};
+            }
+        

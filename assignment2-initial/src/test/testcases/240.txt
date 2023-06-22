@@ -1,0 +1,1 @@
+a,b,c:array [2_1_2e-10,3] of string; 

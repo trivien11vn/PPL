@@ -1,0 +1,9 @@
+
+        Ha: function array [2, 3] of integer() {
+            a: auto = {{1,2,{7}},{1,2,3}};
+            return a;
+        }
+        
+        main: function void() {
+            
+        }

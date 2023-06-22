@@ -1,0 +1,9 @@
+Program([
+	FuncDecl(main, VoidType, [], None, BlockStmt([]))
+	FuncDecl(main, ArrayType([3], BooleanType), [], None, BlockStmt([]))
+	FuncDecl(main, IntegerType, [], None, BlockStmt([]))
+	FuncDecl(main, FloatType, [], None, BlockStmt([]))
+	FuncDecl(main, StringType, [], None, BlockStmt([]))
+	FuncDecl(main, BooleanType, [], None, BlockStmt([]))
+	FuncDecl(main, AutoType, [], None, BlockStmt([]))
+])

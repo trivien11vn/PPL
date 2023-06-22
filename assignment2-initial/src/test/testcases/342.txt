@@ -1,0 +1,9 @@
+main:function void(){
+
+                    while(a==3){
+                        if(x==1){
+                            return 0;
+                        }
+                    }
+                        
+                    }

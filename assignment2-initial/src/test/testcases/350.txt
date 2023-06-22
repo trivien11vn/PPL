@@ -1,0 +1,8 @@
+ main:function void(){
+
+                    x:float=2.015043;
+                    print(x,"abc",_d,____e,_f__,true,a[1,2]);
+                    continue;
+                    break;
+                    x:array[3] of string = {"aa","bb","cc"};           
+                    } 

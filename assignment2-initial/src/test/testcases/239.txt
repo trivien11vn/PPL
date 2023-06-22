@@ -1,0 +1,6 @@
+
+            a,_ : auto = _,_;
+            main:function void (){
+                x: void ;
+            }
+        

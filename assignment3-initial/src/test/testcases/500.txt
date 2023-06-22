@@ -1,0 +1,13 @@
+
+	    	main: function void (){
+				a: integer;
+				for (a=1, a < 2, a -1){
+					continue;
+					do {
+						break;
+						c : array[2] of boolean;
+						b:boolean = true||false&&c[1,2];
+					}while(false);
+				}
+			}
+        

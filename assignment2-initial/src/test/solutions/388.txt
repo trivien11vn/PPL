@@ -1,0 +1,6 @@
+Program([
+	VarDecl(x, BooleanType, BooleanLit(True))
+	VarDecl(y, BooleanType, BooleanLit(False))
+	VarDecl(x, ArrayType([3], IntegerType), ArrayLit([IntegerLit(1), IntegerLit(2), IntegerLit(3)]))
+	FuncDecl(main, VoidType, [], None, BlockStmt([CallStmt(foo, BinExpr(/, BinExpr(*, Id(a), Id(b)), Id(c)))]))
+])

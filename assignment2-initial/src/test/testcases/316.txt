@@ -1,0 +1,7 @@
+
+        a,b,c:string="1","2","3";
+        b,c,d:float = {1,2,3},a==b,a::(b::c>=d);
+        c,d,e:integer;
+        d,e,f:boolean;
+        e,f,g:array[1,2,3] of string;
+        f,g,h:auto;

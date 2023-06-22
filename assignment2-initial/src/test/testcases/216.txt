@@ -1,0 +1,8 @@
+
+        inc: function void(out n: integer, delta: integer) inherit abc {
+            if(--a[foo(8,{1,3,4}),a[a[a[5]]]]) return;
+            else 
+                if (_1) return a==2+d; 
+                else return true;
+        }      
+        

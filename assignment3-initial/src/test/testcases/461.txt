@@ -1,0 +1,11 @@
+
+		main:function void () {
+			
+		}
+		goo:function string (a:string){}
+		foo: function auto ( a: auto){
+			goo(a);
+			a = 1;
+
+		}
+		

@@ -1,0 +1,10 @@
+
+        main: function void (inherit out x: string){
+            if(true){
+                id = (------------id == 21) > 4;
+            }
+            else {
+                if(false){}else{}
+            }
+        }
+        

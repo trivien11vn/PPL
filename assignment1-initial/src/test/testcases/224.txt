@@ -1,0 +1,6 @@
+
+        a:integer = a[1];
+          fact: function integer (){
+              {}
+            }  
+        

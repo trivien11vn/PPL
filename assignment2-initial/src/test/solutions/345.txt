@@ -1,0 +1,5 @@
+Program([
+	VarDecl(a, IntegerType, ArrayCell(a, [IntegerLit(1)]))
+	VarDecl(b, StringType, ArrayLit([FuncCall(foo, [ArrayCell(a, [IntegerLit(9999)])]), ArrayCell(_1, [IntegerLit(111)]), StringLit(string)]))
+	FuncDecl(sum, IntegerType, [Param(a, IntegerType), Param(b, IntegerType)], _print, BlockStmt([ReturnStmt(BinExpr(+, Id(a), Id(b)))]))
+])

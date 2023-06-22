@@ -1,0 +1,11 @@
+
+        a:integer = truee;
+          fact: function integer (){
+              {
+                  {  
+                  if(x==2);
+                  else ;
+                  }
+              }
+            }  
+        

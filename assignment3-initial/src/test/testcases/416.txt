@@ -1,0 +1,7 @@
+
+		main: function string (inherit z:integer, b: string) inherit hoo{
+			super(a);
+			return	z;
+		}
+		hoo: function void (inherit a: string){
+		}

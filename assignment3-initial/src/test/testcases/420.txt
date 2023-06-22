@@ -1,0 +1,6 @@
+
+		a : string;
+		foo: function auto (inherit a:integer, b: string){
+			return a;
+		}
+		main: function void(){}

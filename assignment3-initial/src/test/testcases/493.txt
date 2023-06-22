@@ -1,0 +1,13 @@
+
+            a:string = "Hello world";
+	    	main: function void (){
+				a = "Hi" :: (a :: a);
+				i: float = 2;
+				while (true){
+					if (i > 4) printString(a);
+					else break;
+					i = i -1;
+				}
+
+			}
+        

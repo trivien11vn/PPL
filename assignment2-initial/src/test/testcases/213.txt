@@ -1,0 +1,8 @@
+
+            main: function void (){
+                x: integer = 1;
+                x = x + -foo(b,c,d,e);
+                if(x) return 1;
+                else return 3;
+            }
+        

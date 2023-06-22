@@ -1,0 +1,8 @@
+main:function void(){
+
+                    x:float=2.015043;
+                    print(x);
+                    x= print(x);
+                    a:integer = print({1,2,3},a[1,2,3]);
+                    return 0;                       
+                    }

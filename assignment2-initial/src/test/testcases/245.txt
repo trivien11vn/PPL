@@ -1,0 +1,5 @@
+
+            isEqual: function boolean (_1:string, _2:string){
+                return _1==_2;
+            }
+        

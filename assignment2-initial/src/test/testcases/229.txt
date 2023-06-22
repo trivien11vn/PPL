@@ -1,0 +1,5 @@
+
+            Travelling_path: function string(start: string,end:string){
+                while(start!=end!=end){}
+            }   
+        

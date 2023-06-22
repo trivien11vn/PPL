@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(main, VoidType, [Param(a, IntegerType), Param(b, StringType)], None, BlockStmt([]))
+	FuncDecl(main, VoidType, [Param(a, IntegerType), Param(b, StringType)], None, BlockStmt([]))
+])

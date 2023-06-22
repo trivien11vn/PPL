@@ -1,0 +1,7 @@
+
+		main: function void (a:integer, b: string){
+		
+		}
+		main: function void (a:integer, b: string){
+		
+		}

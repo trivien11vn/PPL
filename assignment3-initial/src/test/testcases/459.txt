@@ -1,0 +1,11 @@
+
+		main:function void () inherit foo{
+			super(2);
+			a = 1;
+			b : integer;
+			b = foo(1);
+		}
+		foo: function auto (inherit a: auto){
+			return false;
+		}
+		

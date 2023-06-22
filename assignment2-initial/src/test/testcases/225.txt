@@ -1,0 +1,6 @@
+
+        sub: function integer(){{{{
+            do x = x + 1;
+            while(true)
+        }}}}  
+        

@@ -1,0 +1,10 @@
+
+        main:function void (){
+                if (x) 
+                    if(y) return 1; 
+                    else return 2;
+                    for(x=2,x<10,x+1){
+                        a,b,c:integer=1,2,3;
+                    }
+            }
+            

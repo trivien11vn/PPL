@@ -1,0 +1,9 @@
+
+            main: function boolean (x:boolean){
+                {
+                    if(1) do{
+                    
+                    }while(a);
+                }
+            }
+        

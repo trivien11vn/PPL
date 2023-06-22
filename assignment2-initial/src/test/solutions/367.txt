@@ -1,0 +1,3 @@
+Program([
+	VarDecl(a, FloatType, BinExpr(::, BinExpr(>, Id(a), BinExpr(>, Id(b), Id(c))), BinExpr(==, Id(d), Id(e))))
+])

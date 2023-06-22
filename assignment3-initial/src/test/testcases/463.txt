@@ -1,0 +1,9 @@
+
+		test: function string (y : auto){
+			 y = 2;
+			 return "1";
+		}
+		main:function void (){
+			test(true);
+		}
+		

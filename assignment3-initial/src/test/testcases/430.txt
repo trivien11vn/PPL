@@ -1,0 +1,10 @@
+a:integer ;
+			main:function auto (){
+				for(a = 1, a<1, a + 1){
+					for(a = 1, a > 2, a - 2){
+						return 2;
+					}
+					continue;
+				}
+			}
+		

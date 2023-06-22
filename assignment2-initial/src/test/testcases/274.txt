@@ -1,0 +1,12 @@
+
+            fact: function integer (inherit x:string){
+                
+
+
+
+
+
+                a="!@#$%^&";
+                b
+            }
+        

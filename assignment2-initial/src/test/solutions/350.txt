@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, VoidType, [], None, BlockStmt([VarDecl(x, FloatType, FloatLit(2.015043)), CallStmt(print, Id(x), StringLit(abc), Id(_d), Id(____e), Id(_f__), BooleanLit(True), ArrayCell(a, [IntegerLit(1), IntegerLit(2)])), ContinueStmt(), BreakStmt(), VarDecl(x, ArrayType([3], StringType), ArrayLit([StringLit(aa), StringLit(bb), StringLit(cc)]))]))
+])

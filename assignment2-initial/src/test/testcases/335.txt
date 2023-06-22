@@ -1,0 +1,6 @@
+inc: function void(out n: integer, delta: integer) inherit abc {
+            if(--a[foo(8,{"aa","bb",{}}),a[b[c[_5]]]]) return;
+            else 
+                if (_1) return a==_2+_3; 
+                else return true;
+        }   

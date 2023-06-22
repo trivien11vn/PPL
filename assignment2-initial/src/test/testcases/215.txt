@@ -1,0 +1,7 @@
+
+            main:function void (){
+                if (x) 
+                    if(y) return 1; 
+                    else return 2;
+            }
+        

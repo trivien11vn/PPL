@@ -1,0 +1,2 @@
+
+        a:array[3] of string = {"a","b","c"};

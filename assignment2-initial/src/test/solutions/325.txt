@@ -1,0 +1,7 @@
+Program([
+	VarDecl(a, BooleanType, BooleanLit(True))
+	VarDecl(b, ArrayType([1, 2, 3], BooleanType), ArrayLit([BooleanLit(True), BooleanLit(False), BooleanLit(True)]))
+	VarDecl(c, ArrayType([1, 2, 3], BooleanType), BooleanLit(True))
+	VarDecl(d, ArrayType([1, 2, 3], BooleanType), BooleanLit(False))
+	FuncDecl(main, VoidType, [], None, BlockStmt([IfStmt(BinExpr(==, Id(a), IntegerLit(1)), AssignStmt(Id(a), IntegerLit(3))), IfStmt(BinExpr(&&, BooleanLit(True), BooleanLit(False)), AssignStmt(Id(x), BinExpr(-, Id(y), IntegerLit(4))), AssignStmt(Id(a), IntegerLit(4)))]))
+])

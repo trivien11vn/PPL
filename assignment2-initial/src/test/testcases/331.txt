@@ -1,0 +1,7 @@
+ main:function void(){
+
+                     while(x<6){
+                        {{}
+                        a=print(print(print(x,y,z)),t);}
+                     }
+                    } 

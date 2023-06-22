@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(func1, ArrayType([5], IntegerType), [], None, BlockStmt([DoWhileStmt(BinExpr(<, Id(x), IntegerLit(10)), BlockStmt([VarDecl(x, IntegerType), VarDecl(y, IntegerType), AssignStmt(Id(x), IntegerLit(3))])), WhileStmt(BinExpr(<, Id(x), IntegerLit(10)), BlockStmt([VarDecl(x, IntegerType)])), VarDecl(x, FloatType)]))
+])

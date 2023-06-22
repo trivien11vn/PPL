@@ -1,0 +1,11 @@
+
+        a:boolean=true;
+        b,c,d:array[1,2,3] of boolean= {true,false,true},true,false;
+        main:function void(){
+                        if(a == 1) 
+                            a=3;
+                        if(true && false)
+                            x=y-4;
+                        else
+                            a=4;   
+            } 

@@ -1,0 +1,10 @@
+
+        a,b,c:integer =1,a[2[3]],3;
+          fact: function integer (){
+              {
+                  {  
+                  
+                  }
+              }
+            }  
+        

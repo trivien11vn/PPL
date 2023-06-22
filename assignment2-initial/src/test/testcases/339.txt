@@ -1,0 +1,7 @@
+ 
+        kiemtra: function integer (n: integer){
+                if (n==1) return 1;
+                else return 0;
+                if (n==0) return;
+                else return n :: fibo(a::(b::c&&d));
+            } 

@@ -1,0 +1,5 @@
+main: function void () {
+            { }
+            if (x>2) x=3;
+            { if (x>2) x=3;}
+        }

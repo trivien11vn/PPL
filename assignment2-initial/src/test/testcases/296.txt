@@ -1,0 +1,7 @@
+
+            _1:integer = 1;
+            _2:integer = 2;
+            main: function void(_1:integer){
+                _1 = _2 * _2 / a ///*/*/*/*asdasd*/ ;
+            }
+        

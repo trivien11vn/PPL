@@ -1,0 +1,11 @@
+
+        a:integer = "he aske me
+";
+          fact: function integer (){
+              {
+                  {  
+                  return {12_3.e+5,123,"he ask me \"",true, a[1,2],foo()};
+                  }
+              }
+            }  
+        

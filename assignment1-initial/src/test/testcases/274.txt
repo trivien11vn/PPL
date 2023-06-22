@@ -1,0 +1,7 @@
+
+        a:integer = aa :: bb;
+          fact: function integer (out x:string){
+              a=a[2,3];
+              b= {1,2,3};
+            }
+        

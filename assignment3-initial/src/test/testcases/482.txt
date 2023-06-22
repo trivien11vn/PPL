@@ -1,0 +1,5 @@
+
+            foo: function integer (a:integer){
+               for (a = "1",a<1, 1){}
+            }
+            

@@ -1,0 +1,7 @@
+
+           main:function void()
+            {
+                a:boolean=1==1!=1;
+                return;
+            }
+        

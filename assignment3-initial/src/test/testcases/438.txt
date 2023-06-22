@@ -1,0 +1,3 @@
+a:boolean = !(true || false);
+		main:function void (){}
+		

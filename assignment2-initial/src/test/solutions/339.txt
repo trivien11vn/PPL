@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(kiemtra, IntegerType, [Param(n, IntegerType)], None, BlockStmt([IfStmt(BinExpr(==, Id(n), IntegerLit(1)), ReturnStmt(IntegerLit(1)), ReturnStmt(IntegerLit(0))), IfStmt(BinExpr(==, Id(n), IntegerLit(0)), ReturnStmt(), ReturnStmt(BinExpr(::, Id(n), FuncCall(fibo, [BinExpr(::, Id(a), BinExpr(::, Id(b), BinExpr(&&, Id(c), Id(d))))]))))]))
+])

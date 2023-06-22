@@ -1,0 +1,5 @@
+
+            HpTIsmE: function integer (out x:string){
+                a_b_c_=1_2_3_4_5.E-9;
+            }
+        

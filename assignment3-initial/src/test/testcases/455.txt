@@ -1,0 +1,9 @@
+
+		main:function void () {
+			if(true){
+				a:integer;
+			}else{
+				a:integer;
+			}
+		}
+		

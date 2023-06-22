@@ -1,0 +1,7 @@
+
+            eat: function void(animal: string){
+                if (animal=="dog") {food = meat;}
+                else {if (animal == "cat") {food = fish;}
+                else {food = worm;}}
+            }
+        

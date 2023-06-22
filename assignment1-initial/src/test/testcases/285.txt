@@ -1,0 +1,11 @@
+
+        a : boolean = true;
+                add: function void(i: float) {
+                    return i;
+                }
+                inc: function void(out n: integer, inherit delta: integer, inherit out hallo: auto) inherit add{
+                    n = n + delta + hallo;
+                    return ;
+                    ;
+                    }
+        

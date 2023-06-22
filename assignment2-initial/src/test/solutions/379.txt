@@ -1,0 +1,10 @@
+Program([
+	VarDecl(a, FloatType, ArrayLit([]))
+	VarDecl(b, IntegerType, IntegerLit(1))
+	VarDecl(c, IntegerType, IntegerLit(2))
+	VarDecl(a, AutoType)
+	VarDecl(a, FloatType, FloatLit(1.2))
+	VarDecl(b, FloatType, ArrayLit([FloatLit(1.2), FloatLit(1.2), ArrayCell(a, [IntegerLit(1), IntegerLit(2)])]))
+	VarDecl(c, FloatType, Id(_a))
+	VarDecl(d, FloatType, Id(_b))
+])

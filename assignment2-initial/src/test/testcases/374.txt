@@ -1,0 +1,2 @@
+ main : function void(){ 
+                        a = _id *6 /4.0/_id[1,2,3]*{1,2,3,4}/true;} 

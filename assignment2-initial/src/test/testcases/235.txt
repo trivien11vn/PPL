@@ -1,0 +1,9 @@
+
+          fact: function integer (){
+              {
+                  {  
+                    a = b[];
+                  }
+              }
+            }  
+        

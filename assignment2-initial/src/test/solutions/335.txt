@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(inc, VoidType, [OutParam(n, IntegerType), Param(delta, IntegerType)], abc, BlockStmt([IfStmt(UnExpr(-, UnExpr(-, ArrayCell(a, [FuncCall(foo, [IntegerLit(8), ArrayLit([StringLit(aa), StringLit(bb), ArrayLit([])])]), ArrayCell(a, [ArrayCell(b, [ArrayCell(c, [Id(_5)])])])]))), ReturnStmt(), IfStmt(Id(_1), ReturnStmt(BinExpr(==, Id(a), BinExpr(+, Id(_2), Id(_3)))), ReturnStmt(BooleanLit(True))))]))
+])

@@ -1,0 +1,6 @@
+
+		main: function void (z:integer, b: string) inherit hoo{
+			super("1");
+
+		}
+		hoo: function void (){}

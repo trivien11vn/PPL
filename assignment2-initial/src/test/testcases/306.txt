@@ -1,0 +1,8 @@
+
+        a:integer;
+        main: function void () {
+            a:integer;
+            printInteger(4);
+        }
+        a,b,c:integer;
+        a,b,c:float = 1_2.2,2_2.3,3_3.4;

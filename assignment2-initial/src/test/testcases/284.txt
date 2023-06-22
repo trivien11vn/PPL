@@ -1,0 +1,6 @@
+
+            //Hello world in MT22 language
+            main: function void(){
+                printStr("Hello world");
+            }
+        

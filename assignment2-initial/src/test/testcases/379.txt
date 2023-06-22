@@ -1,0 +1,4 @@
+ a :float= {};
+                    b,c : integer=1,2;
+                    a:auto;
+                    a,b,c,d:float=1.2,{1.2,1.2,a[1,2]},_a,_b;

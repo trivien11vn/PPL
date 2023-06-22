@@ -1,0 +1,6 @@
+
+		main: function auto (inherit z:integer, b: string) inherit hoo{
+			return	z;
+		}
+		hoo: function void (inherit a: string){
+		}

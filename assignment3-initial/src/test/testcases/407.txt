@@ -1,0 +1,6 @@
+
+		main: function void () inherit hoo{
+			super("1");
+
+		}
+		hoo: function void (inherit a: string){}

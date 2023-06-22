@@ -1,0 +1,4 @@
+ main : function void () {
+                a : array [5] of integer;
+                a = a::b<d&&e&&f+g*!_abcd;
+            }  

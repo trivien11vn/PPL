@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, VoidType, [], None, BlockStmt([AssignStmt(Id(a), IntegerLit(1)), IfStmt(BinExpr(==, Id(a), IntegerLit(1)), AssignStmt(Id(a), IntegerLit(3)), AssignStmt(Id(a), IntegerLit(4))), WhileStmt(BinExpr(>, Id(x), IntegerLit(3)), CallStmt(print, Id(x))), DoWhileStmt(BinExpr(<, Id(a), IntegerLit(10)), BlockStmt([AssignStmt(Id(a), BinExpr(+, Id(a), IntegerLit(2))), AssignStmt(Id(b), Id(a))]))]))
+])

@@ -1,0 +1,10 @@
+a:string ;
+			foo: function void () inherit goo {
+				super(a);
+			}
+
+			goo:function string (inherit x: auto){
+				
+			}
+			main:function void(){}
+		

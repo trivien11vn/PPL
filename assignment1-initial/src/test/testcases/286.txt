@@ -1,0 +1,7 @@
+
+        learningtofly: function integer() {
+                for (i = -foo(), i < 10, i :: -2 :: 3E-10) {
+                    a = ---a;
+                    }
+        }
+        

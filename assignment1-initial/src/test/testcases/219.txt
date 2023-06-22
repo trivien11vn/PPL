@@ -1,0 +1,7 @@
+
+        a:integer;
+          fact: function integer (){
+              do {x = {1,2,3,.123e+10} ;}
+              while (true);
+            }  
+        

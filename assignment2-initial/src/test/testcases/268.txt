@@ -1,0 +1,5 @@
+
+            main:function float (){
+                foo(1.E-10);
+            }
+        

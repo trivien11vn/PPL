@@ -1,0 +1,5 @@
+ a:integer = a[1];
+            b: string = {foo(a[9999]),_1[111],"string"};
+            sum: function integer(a:integer, b:integer) inherit _print{
+                return (a+b);
+            }  

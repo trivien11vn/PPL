@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(gram, IntegerType, [OutParam(a, IntegerType)], func, BlockStmt([]))
+])

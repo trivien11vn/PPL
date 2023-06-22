@@ -1,0 +1,14 @@
+ main:function void(inherit x:float,y:integer){
+
+                    do{
+                        while(x<3){
+                            print(x);
+                        }
+                        for(x=1,x<3,x+1){
+                            
+                        }
+                        if(x==3) print(x);
+                        else {}
+                    }
+                    while(x>3);          
+                    } 

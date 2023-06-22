@@ -1,0 +1,7 @@
+
+        a:integer = a[1];
+          fact: function integer (out x:string){
+              if(x==2) a=b[2,foo(x,2),c[1]];
+              if(x>3) a=2;
+            }  
+        

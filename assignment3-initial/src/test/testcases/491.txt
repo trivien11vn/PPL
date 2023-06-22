@@ -1,0 +1,8 @@
+
+            quadratic_equation_solver: function float (a:auto,b:float,c:float){
+				if(true){
+					return a;
+				}
+				a = true;
+            }
+        

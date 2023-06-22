@@ -1,0 +1,8 @@
+
+		sub:function auto (){
+		return 1;
+		}
+		x: float = sub() + 2.0;
+		y: integer = sub();
+		main: function void (){}
+		

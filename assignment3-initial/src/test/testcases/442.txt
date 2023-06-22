@@ -1,0 +1,4 @@
+a:boolean = foo(foo(false));
+		main: function void(){}
+		foo:function auto (a: boolean){}
+		

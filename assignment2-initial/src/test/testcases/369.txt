@@ -1,0 +1,30 @@
+a,b,c,d,e,f,e,g,e,d : integer = 1,2,3,4,5,6,7,8,9,10;
+        main : function void(){
+                continue;
+                break;
+                return;
+                for(i = 1, i < 4, i + 1) 
+                if(i==4) 
+                    while(true){}
+                else
+                    if(i==4){}
+                if(i==4) 
+                    while(true){}
+                else
+                    if(i==4){}
+                do{
+                        x,y:integer;
+                        x=3;
+                    }
+                    while(x<10);
+                while(x<10){x:integer;}
+                if(i==4) 
+                    while(true){}
+                else
+                    if(i==4){}
+                while(x<10){x:integer;}
+                }
+                   a: array[3] of integer= {1,2,3};
+                   main : function void(){
+                }
+                   

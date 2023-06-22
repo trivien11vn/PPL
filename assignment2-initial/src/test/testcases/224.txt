@@ -1,0 +1,12 @@
+
+            max:function integer (x:integer, y:integer){
+                if (x > y)
+                    return x;
+                else
+                    return y;
+            }  
+            main:function void(){
+                m:integer = max(9,!-1);
+                print(m);
+            }
+        

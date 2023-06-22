@@ -1,0 +1,3 @@
+ a,b : auto = {1,2,3},2;
+        _c,_d_:integer=1,2;
+        _foo: function integer(inherit out _foo:array[3] of integer,out x:auto){}

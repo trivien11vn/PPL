@@ -1,0 +1,7 @@
+
+		foo: function void (z:integer, b: string){
+
+		}
+		main: function void () inherit foo{
+			super(1,"1");
+		}

@@ -1,0 +1,8 @@
+
+		main:function void () {
+			while(foo()){}
+		}
+		foo: function auto(){
+			return 1;
+		}
+		

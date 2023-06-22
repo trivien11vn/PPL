@@ -1,0 +1,3 @@
+a:boolean = foo();
+		main:function void (){}
+		

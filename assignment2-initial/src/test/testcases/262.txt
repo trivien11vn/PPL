@@ -1,0 +1,8 @@
+
+            program: function string(){
+                for (i = foo(goo(hoo({1,2,3}))), (x+2)==(z>=a[4]), a[{1}] + 1)
+                {
+                
+                }
+            }  
+        

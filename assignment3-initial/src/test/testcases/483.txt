@@ -1,0 +1,6 @@
+
+            foo: function integer (a:auto){
+               for (a = 1,a<1, 1){}
+	       		a = "a";
+            }
+            

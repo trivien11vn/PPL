@@ -1,0 +1,12 @@
+
+			sqrt:function float (delta:float){}
+            quadratic_equation_solver: function array [2] of float (a:float,b:float,c:float){
+                delta:float = b*b - 4*a*c;
+                x1:float = (-b - sqrt(delta))/(2*a) ;
+                x2:float = (-b + sqrt(delta))/(2*a) ;
+                return {x1,x2};
+            }
+            main:function void (){
+                writeFloat(quadratic_equation_solver(1,2,1));
+            }
+        

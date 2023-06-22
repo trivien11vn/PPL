@@ -1,0 +1,5 @@
+
+            main:function void(){
+                return main(-main((-main----main+-main(main[1,main()]))))
+            }  
+        

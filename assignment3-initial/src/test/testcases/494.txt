@@ -1,0 +1,22 @@
+
+	    	main: function void (){
+				a:string = "a";
+				i: float = 2;
+				while (true){
+					if (i > 4) printString(a);
+					else while (true){
+						if (i > 4) printString(a);
+						else while (true){
+							if (i > 4) printString(a);
+							else break;
+							i = i -1;
+						}
+						i = i -1;
+						continue;
+					}
+					i = i -1;
+					break;
+				}
+
+			}
+        

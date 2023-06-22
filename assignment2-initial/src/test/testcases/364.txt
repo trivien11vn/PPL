@@ -1,0 +1,8 @@
+x: integer = 65;
+                inc: function void(out n: array [5] of integer, delta: integer) inherit _ {
+                    n = n + delta;
+}
+                main: function void(inherit n:integer,out delta:integer) inherit abc {
+                        delta: integer = fact(3);                        inc(x, delta);
+                        printInteger(x);
+}

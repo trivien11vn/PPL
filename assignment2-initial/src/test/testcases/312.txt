@@ -1,0 +1,8 @@
+func: function integer(){
+            do{
+                a=2;
+                a,b,c:integer=1,2,3;
+                a=a+1;
+            }
+            while(a<10);
+            }

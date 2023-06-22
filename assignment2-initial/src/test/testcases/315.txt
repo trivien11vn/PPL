@@ -1,0 +1,8 @@
+
+        a:string;
+        b:float;
+        c:integer;
+        d:boolean;
+        e:array[1,2,3] of string;
+        f:auto;
+        

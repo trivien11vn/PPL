@@ -1,0 +1,8 @@
+
+		main: function auto (inherit z:integer, b: string) inherit hoo{
+			preventDefault();
+			a : integer;
+			return	z;
+		}
+		hoo: function void (inherit a: string){
+		}

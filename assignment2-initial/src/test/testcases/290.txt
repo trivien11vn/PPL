@@ -1,0 +1,7 @@
+
+            main:function void (){
+                do{
+                    a = ("123" >= "321")::-123_321.E;
+                }while(true);
+            }
+        

@@ -1,0 +1,8 @@
+
+		foo : function auto () {
+			if (true) {
+       	 		return 4;
+    		} else {
+        		return true;
+    		}
+		}

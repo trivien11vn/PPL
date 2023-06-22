@@ -1,0 +1,5 @@
+
+            def:function void(){
+                a: array[1] of array [1] of integer;
+            }
+        

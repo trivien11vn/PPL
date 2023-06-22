@@ -1,0 +1,9 @@
+a:integer ;
+			main:function void (){
+				for(a = 1, a<1, a + 1){
+					{
+						break;
+					}
+				}
+			}
+		

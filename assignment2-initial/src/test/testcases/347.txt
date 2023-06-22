@@ -1,0 +1,6 @@
+x,y: integer=2,0;
+        x,y,z: integer=2,0,1;
+        x,y,z,t: integer=2,0,1,5;
+        x,y,z,t,u: integer=2,0,1,5,0;
+        x,y,z,t,u,v: integer=2,0,1,5,0,4;
+        x,y,z,t,u,v,w: integer=2,0,1,5,0,4,3;

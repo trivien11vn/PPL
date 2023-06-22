@@ -1,0 +1,7 @@
+Program([
+	VarDecl(a, AutoType, ArrayLit([IntegerLit(1), IntegerLit(2), IntegerLit(3)]))
+	VarDecl(b, AutoType, IntegerLit(2))
+	VarDecl(_c, IntegerType, IntegerLit(1))
+	VarDecl(_d_, IntegerType, IntegerLit(2))
+	FuncDecl(_foo, IntegerType, [InheritOutParam(_foo, ArrayType([3], IntegerType)), OutParam(x, AutoType)], None, BlockStmt([]))
+])

@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, VoidType, [], None, BlockStmt([IfStmt(BooleanLit(False), BlockStmt([CallStmt(print, IntegerLit(6)), IfStmt(BooleanLit(True), BlockStmt([CallStmt(print, IntegerLit(5)), DoWhileStmt(BooleanLit(True), BlockStmt([CallStmt(print, IntegerLit(4))])), WhileStmt(BooleanLit(False), BreakStmt())]))]))]))
+])

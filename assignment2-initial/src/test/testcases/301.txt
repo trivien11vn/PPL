@@ -1,0 +1,1 @@
+x,y: integer;y,z:float;a:auto;b:array[1,2,3] of integer;

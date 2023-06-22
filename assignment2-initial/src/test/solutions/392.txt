@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(func1, ArrayType([5], IntegerType), [Param(a, IntegerType), Param(b, FloatType), Param(c, StringType), Param(d, BooleanType)], None, BlockStmt([ReturnStmt(BooleanLit(True)), ReturnStmt(), ReturnStmt(IntegerLit(1123)), ReturnStmt(FloatLit(1123.4)), ReturnStmt(FuncCall(foo, [Id(abc)])), ReturnStmt(Id(_a)), ReturnStmt(ArrayCell(_a, [IntegerLit(1), IntegerLit(2)]))]))
+])

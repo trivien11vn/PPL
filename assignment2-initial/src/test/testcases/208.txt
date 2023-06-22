@@ -1,0 +1,5 @@
+
+            fact: function void (inherit out x : void){
+                
+            }
+        

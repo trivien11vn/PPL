@@ -1,0 +1,8 @@
+
+		main:function void () {
+			goo(foo());
+			a : integer = foo();
+		}
+		goo:function string (a:string){}
+		foo: function auto (){}
+		

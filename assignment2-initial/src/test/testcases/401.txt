@@ -1,0 +1,5 @@
+
+            main : function void (inherit out x : array[3] of string) {
+                if(x==2) if(x==1) x=3; else x=4;
+            }
+        

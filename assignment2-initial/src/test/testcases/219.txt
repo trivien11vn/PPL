@@ -1,0 +1,8 @@
+
+        main: function void (){
+            while(true)
+                do{
+                    a[-"a"]=b>d;
+                }while(1);
+        } 
+        

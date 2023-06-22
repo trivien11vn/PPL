@@ -1,0 +1,5 @@
+
+            test : function void (inherit out x : integer){
+                test1: function void(){}
+            }
+        

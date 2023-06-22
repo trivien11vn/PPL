@@ -1,0 +1,5 @@
+
+        a:integer = a[1];
+          fact: function integer (out x:string){
+              while(x==2) a=3;}
+        

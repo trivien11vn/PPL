@@ -1,0 +1,4 @@
+a:integer = 1 + foo(foo(false));
+		foo:function auto (a: boolean){}
+		main:function void(){}
+		

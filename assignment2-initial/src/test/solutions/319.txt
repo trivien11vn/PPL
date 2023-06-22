@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(func, VoidType, [Param(a, IntegerType)], None, BlockStmt([AssignStmt(Id(a), UnExpr(!, UnExpr(!, UnExpr(!, UnExpr(-, IntegerLit(3))))))]))
+])

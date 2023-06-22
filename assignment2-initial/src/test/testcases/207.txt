@@ -1,0 +1,7 @@
+ 
+            main:function array [2,2] of string (out b: string){
+                for(i = -a[b[c["2"]]] , (i+4 > 5) == true, a * -goo()){
+                    {{}}
+                }
+            }
+        

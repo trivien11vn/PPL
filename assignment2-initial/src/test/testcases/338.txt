@@ -1,0 +1,6 @@
+  main:function void(){
+            while(a==3){
+                do {{}}
+                    while(a[0] == 2);
+            }            
+                    }  

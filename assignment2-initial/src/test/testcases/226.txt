@@ -1,0 +1,5 @@
+
+            True:function boolean(x:integer = true){
+                return true;
+            }  
+        

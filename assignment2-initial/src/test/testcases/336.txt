@@ -1,0 +1,10 @@
+main:function void(){
+
+                    while(a==3){
+                        if(x==1){
+                            break;
+                        }
+                        print(-a,-b,c,!d,a::(b::d));
+                    }
+                        
+                    }

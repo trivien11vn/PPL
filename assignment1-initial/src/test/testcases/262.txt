@@ -1,0 +1,12 @@
+
+        a:integer = a[1];
+        return ;
+          fact: function integer (out x:string){
+              for (i = 1, i < 10, i + 1) {
+                writeInt(i);
+                {
+                    ;
+                }
+            }
+            }  
+        

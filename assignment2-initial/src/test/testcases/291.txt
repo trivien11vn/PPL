@@ -1,0 +1,9 @@
+
+            main: function void(){
+                for(a["ds"::cd]=goo(),"+++a" == "$a%"::1_a, _ <= true){
+                    do{
+                        
+                    }while(true);
+                }
+            }
+        

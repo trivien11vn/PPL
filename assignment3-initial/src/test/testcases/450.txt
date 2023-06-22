@@ -1,0 +1,8 @@
+
+		main:function void () inherit foo {
+			super(1);
+		}
+		foo:function auto (inherit z : auto){
+			 z= "5";
+		}
+		

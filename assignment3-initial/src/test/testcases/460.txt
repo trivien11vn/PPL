@@ -1,0 +1,9 @@
+
+		main:function void () inherit foo{
+			preventDefault();
+			a = 1;
+		}
+		foo: function auto (inherit a: auto){
+			a = true;
+		}
+		

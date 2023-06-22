@@ -1,0 +1,8 @@
+Program([
+	FuncDecl(main, VoidType, [], None, BlockStmt([VarDecl(x, FloatType, FloatLit(1.3)), CallStmt(print, Id(x), StringLit(abv)), ReturnStmt(IntegerLit(0))]))
+	FuncDecl(main, VoidType, [], None, BlockStmt([]))
+	VarDecl(int, IntegerType, IntegerLit(1))
+	VarDecl(bool, BooleanType, BooleanLit(True))
+	VarDecl(int, ArrayType([2], IntegerType), ArrayLit([IntegerLit(1), IntegerLit(2)]))
+	VarDecl(bool, ArrayType([2], IntegerType), ArrayLit([BooleanLit(True), BooleanLit(False)]))
+])

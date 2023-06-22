@@ -1,0 +1,10 @@
+
+            quadratic_equation_solver: function float (a:float,b:float,c:float){
+				return a;
+				return "1";
+				return true;
+            }
+            main:function void (){
+                writeFloat(quadratic_equation_solver(1,2,1));
+            }
+        

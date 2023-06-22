@@ -1,0 +1,7 @@
+
+        a:integer = a[1];
+          fact: function integer (out x:string){
+              do ;
+              while (x>=2);
+            }
+        

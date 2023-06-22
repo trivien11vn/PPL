@@ -1,0 +1,6 @@
+
+           main:function boolean()
+            {
+                a:integer = ---3;
+            }
+        

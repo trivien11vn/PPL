@@ -1,0 +1,12 @@
+
+        a:integer;
+          fact: function integer (){
+              do {x =2 ;}
+              while(true);
+              a=2;
+              a: integer;
+              return "123";
+              a=2;
+              return "123";
+          }  
+        

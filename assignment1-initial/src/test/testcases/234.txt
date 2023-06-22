@@ -1,0 +1,10 @@
+
+        a,b,c:integer =1 ;
+          fact: function integer (){
+              {
+                  {  
+                  
+                  }
+              }
+            }  
+        

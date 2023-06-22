@@ -1,0 +1,2 @@
+func: function integer(inherit out a:array [1,2,3] of integer){
+            }

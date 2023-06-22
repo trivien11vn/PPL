@@ -1,0 +1,3 @@
+a:integer = 10;
+			main:function void (a:integer){}
+		

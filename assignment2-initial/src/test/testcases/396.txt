@@ -1,0 +1,1 @@
+a12 : array [1] of integer = {1,2};

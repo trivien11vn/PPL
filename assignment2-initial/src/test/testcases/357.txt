@@ -1,0 +1,5 @@
+ main:function void( out x:float,y:integer){
+
+                    print(x);                     
+                    }
+                    _x_,__y,___z : float= 1.2,1_2.3,{1.2,2.3};

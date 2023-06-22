@@ -1,0 +1,9 @@
+
+            I_Luv_U: function string(life: integer){
+                while(life != end){
+                    print("I" + "Will" + "Keep" + "Loving" + "You");
+                    life = life + 1;
+                }
+                return I_Luv_U(life-life);
+            }  
+        

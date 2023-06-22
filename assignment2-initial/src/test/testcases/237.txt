@@ -1,0 +1,7 @@
+
+          fact: function integer (){
+            while(true) print(expr);
+            a[foo(a[-1])[2,foo()]] = id[id]; 
+          }
+  
+        
